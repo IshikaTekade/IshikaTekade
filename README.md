@@ -1,7 +1,7 @@
 [![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)](https://IshikaTekade.io)
 <h1 align="center">Hi 👋, I'm Ishika</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="Coding" width="250" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 
 
