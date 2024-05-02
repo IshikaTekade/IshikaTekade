@@ -1,6 +1,8 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaAJwlyN683l4RmKF5mV4hop-V8fvK4eAeSnVOsYV0JtfUdogsXnKpC4oEHCwAkxEUKfpjpUTup2B2QbsjSFKld_bqXCDJPPSQ2CNoXeIKpbdkkc8cr0_0FmRbb488-Mo5pY9SEq_NYI8Ev1B0eKVpNLpAzAR8QLrNVi6ynZsuhj4c8YlSrEQOTXhuKA3R/s1920/chill_pulse_image_03.jpg)](https://IshikaTekade.io)
+[![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)](https://IshikaTekade.io)
 <h1 align="center">Hi 👋, I'm Ishika</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+
 
 
 
